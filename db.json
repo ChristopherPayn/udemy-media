@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Benny Schamberger",
+      "id": 2
+    },
+    {
+      "name": "Warren Flatley",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Licensed Concrete Chips",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Metal Keyboard",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8045161609166848",
+      "id": 3
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=590041229295616",
+      "id": 4
+    }
+  ]
+}
